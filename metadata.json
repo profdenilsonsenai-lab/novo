@@ -1,0 +1,6 @@
+{
+  "name": "Reserva Vista Nobre | Apartamentos de Alto Padrão",
+  "description": "Apartamentos exclusivos de 2, 3 e 4 suítes com vista panorâmica, lazer resort e condições especiais de lançamento. Cadastre seu interesse.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
